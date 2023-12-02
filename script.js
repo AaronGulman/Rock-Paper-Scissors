@@ -36,7 +36,9 @@ function round(pSelection, cSelection) {
 
 
 
-document.getElementById('result').innerText = ` Player: ${pScore},Computer: ${cScore}, Winner:${winner} `
+document.getElementById('result').innerText = ` Player: ${pScore} Weapon: ${pSelection}
+Computer: ${cScore} Weapon:${cSelection} 
+Winner:${winner} `
 
 if (pScore === 5 || cScore === 5) {
 	disableButtons();
@@ -45,6 +47,7 @@ if (pScore === 5 || cScore === 5) {
 	if (playAgain.toLowerCase() === iDo){
 	pScore = 0;
 	cScore = 0;
+	
 	enableButtons()
 	round()
 
