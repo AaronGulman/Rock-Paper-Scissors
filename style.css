@@ -21,7 +21,37 @@ body {
     	-webkit-background-clip: text;
 	background-clip: text;
    	 color: transparent;
-}
+	    text-shadow: 
+	  
+	    -3px 6px 1px #ff0000, 
+	    -4px 8px 1px #510f0f, 
+	    -5px 10px 1px #510f0f, 
+	    -6px 12px 1px #510f0f, 
+	    -7px 14px 1px #510f0f, 
+	    -8px 16px 1px #510f0f, 
+	    -9px 18px 1px #510f0f, 
+	    -10px 20px 1px #510f0f, 
+	    -11px 22px 1px #510f0f, 
+	    -12px 24px 1px #510f0f, 
+	    -13px 26px 1px #510f0f, 
+	    -14px 28px 1px #510f0f, 
+	    -15px 30px 1px #510f0f, 
+	    -16px 32px 1px #510f0f, 
+	    -17px 34px 1px #510f0f, 
+	    -18px 36px 1px #510f0f, 
+	    -19px 38px 1px #510f0f, 
+	    -20px 40px 1px #510f0f, 
+	    -21px 42px 1px #510f0f, 
+	    -22px 44px 1px #510f0f, 
+	    -23px 46px 1px #510f0f, 
+	    -24px 48px 1px #510f0f, 
+	    -25px 50px 1px #510f0f, 
+	    -26px 52px 1px #510f0f, 
+	    -27px 54px 1px #510f0f, 
+	    -28px 56px 1px #510f0f;
+	  
+	}
+
 
 .weapons {
 	display: flex;
